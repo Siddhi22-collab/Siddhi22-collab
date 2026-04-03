@@ -41,18 +41,6 @@ I am passionate about **Data Science and Machine Learning**, and I enjoy transfo
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
 ## 🌱 Currently Learning  
 
 - Machine Learning & Data Science  
