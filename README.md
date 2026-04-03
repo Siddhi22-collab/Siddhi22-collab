@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Siddhi Lokhande  
 
-🎓 **MCA Student | Aspiring Data Scientist | ML Enthusiast**  
-📍 Raisoni College, Nagpur  
+🎓 **MCA Student | Aspiring Data Scientist | ML Enthusiast**    
 
 ---
 
