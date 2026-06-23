@@ -16,7 +16,7 @@ I am passionate about **Data Science and Machine Learning**, with a focus on bui
 ## Skills  
 
 **Programming Languages:**  
-C, C++, Python, SQL
+C++, Python, SQL
 
 **Tools & Technologies:**  
 MySQL, Jupyter Notebook, Git, GitHub 
