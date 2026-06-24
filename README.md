@@ -137,12 +137,3 @@ I am a passionate MCA student with a strong foundation in **Python, SQL, Machine
 🐙 **GitHub:**
 https://github.com/Siddhi22-collab
 
----
-
-### ⭐ Fun Fact
-
-📊 I love exploring datasets, uncovering hidden patterns, and turning complex data into meaningful business insights.
-
-### 💭 Motto
-
-> **"Turning Data into Insights 📈 and Insights into Decisions 🎯"**
