@@ -103,8 +103,7 @@ I am a passionate MCA student with a strong foundation in **Python, SQL, Machine
 🔹 Advanced Machine Learning Algorithms
 🔹 Deep Learning Fundamentals
 🔹 Model Deployment using Flask & Streamlit
-🔹 Generative AI Applications
-🔹 Advanced Power BI & Data Storytelling
+🔹 Generative AI Application
 
 ---
 
