@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I am a passionate MCA student with a strong foundation in **Python, SQL, Machine Learning, Data Analysis, and Business Intelligence**.
+I am a passionate MCA student with a strong foundation in **Python, SQL, Machine Learning, Power BI, Data Analysis, and Business Intelligence**.
 
 📚 My academic background in **Computer Science, Mathematics, and Statistics** has strengthened my analytical thinking and problem-solving abilities.
 
@@ -50,6 +50,7 @@ I am a passionate MCA student with a strong foundation in **Python, SQL, Machine
 ### 🗄️ Database
 
 * MySQL
+* Oracle
 
 ### 🛠️ Tools & Platforms
 
