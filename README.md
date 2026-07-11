@@ -90,11 +90,6 @@ I am a passionate MCA student with a strong foundation in **Python, SQL, Machine
 ✔️ Applied classification algorithms and data preprocessing techniques.
 ✔️ Evaluated model performance using standard ML metrics.
 
-### 💰 Salary Prediction Model
-
-✔️ Built a regression-based Machine Learning model for salary prediction.
-✔️ Performed feature engineering and model evaluation.
-✔️ Generated insights using historical salary datasets.
 
 ---
 
