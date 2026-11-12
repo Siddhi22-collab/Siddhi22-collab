@@ -1,15 +1,15 @@
-Hi 👋, I'm Siddhi Lokhande
+# Hi 👋, I'm Siddhi Lokhande
 
-💻 Skills:
+💻 **Skills:**
 
-<img src="https://skillicons.dev/icons?i=python,mysql,pytorch,sklearn,powerbi" />
+<img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,pytorch,sklearn,powerbi" />
 
-<img src="https://skillicons.dev/icons?i=excel,tensorflow,github" />
+<img src="https://skillicons.dev/icons?i=tensorflow,github" />
 
-🤖 LLM | LangChain | Generative AI
+🤖 LLM | LangChain | Generative AI | Excel | SQL
 
-🔗 Links
+🔗 **Links**
 
-💼 LinkedIn
-🐙 GitHub
+💼 LinkedIn  
+🐙 GitHub  
 📧 Email
