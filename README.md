@@ -1,6 +1,6 @@
 # Hi 👋, I'm Siddhi Lokhande
 
-💻 **Skills:**
+**Skills:**
 
 <img src="https://skillicons.dev/icons?i=python,mysql,sqlite,postgres,pytorch,sklearn,powerbi" />
 
