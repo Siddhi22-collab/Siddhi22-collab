@@ -13,16 +13,4 @@
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain"/>
 </p>
 
-<h3 align="center">🔗 Connect With Me</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/siddhilokhande/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Siddhi22-collab">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:siddhilokhande2202@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
