@@ -11,6 +11,7 @@
   <img src="https://img.icons8.com/color/96/power-bi.png" height="45" alt="Power BI"/>
   <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" height="45" alt="Excel"/>
   <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="45" alt="LangChain"/>
+
 </p>
 
 
